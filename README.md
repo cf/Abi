@@ -2,8 +2,9 @@ Abi
 ===
 
 Abi, imaginary numbers for Javascript
-Made by Carter Feldman
-All code copyright (c) 2014, Carter Feldman
+
+Copyright (c) 2013 Carter Feldman, All rights reserved.
+
 ##Example operations
 
 #Adding
